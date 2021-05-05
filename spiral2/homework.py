@@ -18,3 +18,4 @@ def spiralize(size, n=1):
     return_value = sum(sum) 
     
     return return_value
+# 1st Try.
