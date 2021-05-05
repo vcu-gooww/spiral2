@@ -13,7 +13,7 @@ def spiralize(size, n=1):
     
         Diagonal_Sum = a + b + c +d
         
-    sum.append(Diagonal_Sum)
+    sum = Diagonal_Sum + sum
     
     return_value = sum(sum) 
     
