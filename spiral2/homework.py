@@ -1,7 +1,7 @@
 def spiralize(size, n=1):
     
     sum = []
-    for n in range(1, 501, 2):
+    for n in range(1, size, 2):
         
     a = n**2 #a is top right diagonal
     
